@@ -1,0 +1,9 @@
+> Task :clean
+> Task :compileJava
+> Task :processResources NO-SOURCE
+> Task :classes
+
+> Task :compileTestJava
+
+> Task :compileTestJava FAILED
+3 actionable tasks: 3 executed
