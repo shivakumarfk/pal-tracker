@@ -1,4 +1,6 @@
 name: Pal Tracker Pipeline
+DOMAIN: cfapps.io
+UNIQUE-IDENTIFIER: day2
 
 on:
   push:
